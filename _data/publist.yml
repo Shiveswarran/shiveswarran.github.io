@@ -1,11 +1,11 @@
-- title: Discovering and forecasting extreme events via active learning in neural operators
-  authors: E. Pickering, S. Guth, G. Em Karniadakis, T.P. Sapsis
-  url: pickering2022discovery
-  image: pickering2022discovery.png
-  display: Nature Compuational Science
-  year: 2022
-  doi: 10.1038/s43588-022-00376-0
-  abstract: "Extreme events in society and nature, such as pandemic spikes, rogue waves or structural failures, can have catastrophic consequences. Characterizing extremes is difficult, as they occur rarely, arise from seemingly benign conditions, and belong to complex and often unknown infinite-dimensional systems. Such challenges render attempts at characterizing them moot. We address each of these difficulties by combining output-weighted training schemes in Bayesian experimental design (BED) with an ensemble of deep neural operators. This model-agnostic framework pairs a BED scheme that actively selects data for quantifying extreme events with an ensemble of deep neural operators that approximate infinite-dimensional nonlinear operators. We show that not only does this framework outperform Gaussian processes, but that (1) shallow ensembles of just two members perform best; (2) extremes are uncovered regardless of the state of the initial data (that is, with or without extremes); (3) our method eliminates ‘double-descent’ phenomena; (4) the use of batches of suboptimal acquisition samples compared to step-by-step global optima does not hinder BED performance; and (5) Monte Carlo acquisition outperforms standard optimizers in high dimensions. Together, these conclusions form a scalable artificial intelligence (AI)-assisted experimental infrastructure that can efficiently infer and pinpoint critical situations across many domains, from physical to societal systems."
+- title: A Study of Underground and Surface Mining Methods in Sri Lanka and its Suitability Assessment
+  authors: Thanujan T., Brinthan K., Shivadhahini S., Subasinghe MAIIJ., Vettinathan S., Dharmaratne PGR., Hemalal PVA., Chaminda SP., Jayawardena CL
+  url: thanujan2021astudy
+  #image: pickering2022discovery.png
+  display: 5th International Symposium on Earth Resources Management and Environment
+  year: 2021
+  doi: http://dl.lib.uom.lk/handle/123/17115
+  abstract: "The demand for minerals is rapidly increasing with industrialization, urbanization, and population growth. Sri Lanka has the potential to penetrate the world market with its endowed rich base of minerals despite its small land area. However, selecting a suitable mining method and its optimum utilization have significant roles in the growth of the local mineral mining industry. The lack of systematic approaches in mining methods is suboptimal for the economic growth of Sri Lanka, which demands immediate investigation and reassessment of contemporary mining practices. Thus, this study aims to critique the major mining practices and evaluate their suitability through characteristics and numerical analysis. This investigation was performed for underground mining methods, cut-and-fill stoping and open-stoping; surface mining methods, open-pit, and open-cast placer mining with reference to Bogala, Kahatagaha, Aruwakkalu, and Pulmoddai, respectively. A detailed study complying with the principles of the grounded theory was conducted through a multimethod approach followed by a thematic and content analysis along with the deductive approach. Moreover, the suitability of these methods was evaluated employing the University of British Columbia method through a numerical approach. This study reveals that the selections of mining methods are appropriate for all four mines, and mining practices are modernized and traditional, complying with site-specific requirements."
 
 - title: Information FOMO, The unhealthy fear of missing out on information. A method for removing misleading data for healthier models
   authors: E. Pickering, T.P. Sapsis
