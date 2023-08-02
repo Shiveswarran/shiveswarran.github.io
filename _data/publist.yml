@@ -40,10 +40,10 @@
   #url: pickering2021resolvent
   #image: pickering2021resolvent.png
   display: International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena, California. <b>(In press)</b>
-  year: 2023
+  year: 
   #doi: 10.1121/10.0006453
   abstract: "Monitoring surface and near-shore water features is crucial for understanding dynamic environmental behaviours. Advances in satellite-based remote sensing have enabled the cost-effective and sustainable monitoring of water resources. Exploring the subclasses of water features using remote sensing requires further investigation. Spectral signatures have been proven to be effective in distinguishing water resource subclasses. Hence, this study aimed to establish the relationship between spectral signatures and the differentiation of water resource subclasses across wavelength ranges. To assess the effectiveness of the spectral signatures, a methodology combining the maximum difference and categorical matrices was used. This approach aims to compute an indicator matrix for quantitative evaluation. The indicator matrix quantifies the distinguishability between the classes across different wavelength ranges. These results facilitate the selection of optimal band combinations and wavelength ranges to delineate water subclasses efficiently. The findings of this study have practical implications for environmental and scientific applications, especially for classifying water resource subclasses."
-
+  
 - title: Harnessing the Capabilities of Microorganisms for the Valorisation of Coal Fly Ash Waste through Biometallurgy
   authors: <b>Brinthan K.</b>, Fernando WAM., Panda S., Jayawardena CL., Attygalle D., Amarasinghe DAS
   url: brinthan2023harnessing
@@ -58,7 +58,7 @@
   #url: pickering2021optimal
   #image: pickering2021optimal.png
   display: SLRMES Conference on Rock Mechanics for Infrastructure and Geo-Resources Development - an ISRM Specialised Conference <b>(Accepted)</b>
-  year: 2023
+  year: 
   #arxiv: 2005.10964
   #doi: doi:10.1017/jfm.2021.232
   #abstract: "Response modes computed via linear resolvent analysis of a turbulent mean-flow field have been shown to qualitatively capture characteristics of the observed turbulent coherent structures in both wall-bounded and free shear flows.  To make such resolvent models predictive, the nonlinear forcing term must be closed. Strategies to do so include imposing self-consistent sets of triadic interactions, proposing various source models, or through turbulence modelling. For the latter, several investigators have proposed using the mean-field eddy viscosity acting linearly on the fluctuation field.  In this study, a data-driven approach is taken to quantitatively improve linear resolvent models by deducing an optimal eddy-viscosity field that maximizes the projection of the dominant resolvent mode to the energy-optimal coherent structure educed using spectral proper orthogonal decomposition (SPOD) of data from high-fidelity simulations.  We use large-eddy simulation databases for round isothermal jets at subsonic, transonic, and supersonic conditions and show that the optimal eddy viscosity substantially improves the agreement between resolvent and SPOD modes, reaching over 90% agreement at those frequencies where the jet exhibits a low-rank response.  We then consider a fixed model for the eddy viscosity and show that with the calibration of a single constant, the results are generally close to the optimal one.  In particular, the use of a standard Reynolds-Averaged-Navier-Stokes (RANS) eddy-viscosity resolvent model, with a single coefficient, provides substantial agreement between SPOD and resolvent modes for three turbulent jets and across the most energetic wavenumbers and frequencies."
@@ -68,7 +68,7 @@
   #url: pickering2020lift
   #image: pickering2020lift.jpeg
   display: World Congress on Undergraduate Research (WorldCUR), The University of Warwick, United Kingdom. <b>(In press)</b>
-  year: 2023
+  year: 
   #arxiv: 1909.09737
   #doi: doi:10.1017/jfm.2020.301
   #abstract: "Three amplification mechanisms present in turbulent jets, namely lift-up, Kelvin– Helmholtz and Orr, are characterized via global resolvent analysis and spectral proper orthogonal decomposition (SPOD) over a range of Mach numbers. The lift-up mechanism was recently identified in turbulent jets via local analysis by Nogueira et al. (J. Fluid Mech., vol. 873, 2019, pp. 211–237) at low Strouhal number (St) and non-zero azimuthal wavenumbers (m). In these limits, a global SPOD analysis of data from high-fidelity simulations reveals streamwise vortices and streaks similar to those found in turbulent wall-bounded flows. These structures are in qualitative agreement with the global resolvent analysis, which shows that they are a response to upstream forcing of streamwise vorticity near the nozzle exit. Analysis of mode shapes, component-wise amplitudes and sensitivity analysis distinguishes the three mechanisms and the regions of frequency–wavenumber space where each dominates, finding lift-up to be dominant as St/m → 0. Finally, SPOD and resolvent analyses of localized regions show that the lift-up mechanism is present throughout the jet, with a dominant azimuthal wavenumber inversely proportional to streamwise distance from the nozzle, with streaks of azimuthal wavenumber exceeding five near the nozzle, and wavenumbers one and two most energetic far downstream of the potential core."
@@ -78,7 +78,7 @@
   #url: pickering2020resolvent
   #image: pickering2020resolvent.png
   display: Journal of Environmental Chemical Engineering <b>(Under review)</b>
-  year: 2023
+  year: 
   #doi: doi:10.2514/6.2020-0999
   #abstract: "Linear resolvent analysis has demonstrated encouraging results for modeling coherent structures in jets when compared against their data-deduced counterparts from high-fidelity large-eddy simulations (LES). However, leveraging resolvent modes for reconstructing statistics of the far acoustic field remains elusive. In this study, we use a LES database to produce an ensemble of realizations for the acoustic field that we project on to a limited set of n resolvent modes. The projections are done on a restricted acoustic output domain, r/D = [5, 6], and allow for the LES realizations to be recast in the resolvent basis via a datadeduced, low-rank, n × n cross-spectral density matrix. We find substantial improvements to the acoustic field reconstructions with the addition of a RANS-derived eddy-viscosity model to the resolvent operator. The reconstructions quantitatively match the most energetic regions of the acoustic field across Strouhal numbers, St = [0 − 1], and azimuthal wavenumbers, m = [0, 2], using only three resolvent modes. Finally, the characteristics of the resulting n × n covariance matrices are examined and suggest off-diagonal terms may be neglected for n ≤ 3. Results are presented for round, isothermal, Mach 1.5 and 0.9 jets."
 
@@ -87,7 +87,7 @@
   #url: pickering2020resolvent
   #image: pickering2020resolvent.png
   display: Journal of Analytical Atomic Spectrometry, The Royal Society of Chemistry <b>(Under internal review)</b>
-  year: 2023
+  year: 
   #doi: doi:10.2514/6.2020-0999
   #abstract: "Linear resolvent analysis has demonstrated encouraging results for modeling coherent structures in jets when compared against their data-deduced counterparts from high-fidelity large-eddy simulations (LES). However, leveraging resolvent modes for reconstructing statistics of the far acoustic field remains elusive. In this study, we use a LES database to produce an ensemble of realizations for the acoustic field that we project on to a limited set of n resolvent modes. The projections are done on a restricted acoustic output domain, r/D = [5, 6], and allow for the LES realizations to be recast in the resolvent basis via a datadeduced, low-rank, n × n cross-spectral density matrix. We find substantial improvements to the acoustic field reconstructions with the addition of a RANS-derived eddy-viscosity model to the resolvent operator. The reconstructions quantitatively match the most energetic regions of the acoustic field across Strouhal numbers, St = [0 − 1], and azimuthal wavenumbers, m = [0, 2], using only three resolvent modes. Finally, the characteristics of the resulting n × n covariance matrices are examined and suggest off-diagonal terms may be neglected for n ≤ 3. Results are presented for round, isothermal, Mach 1.5 and 0.9 jets."
 

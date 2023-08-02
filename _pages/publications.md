@@ -15,7 +15,7 @@ permalink: /publications/
 {% endfor %}
 
 {% if yeartest == false %}
-## Coming Soon
+## Works in Press, Review, and Preparation:
 {% endif %}
 
 {% for publi in site.data.publist %}
