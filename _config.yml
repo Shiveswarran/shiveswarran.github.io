@@ -1,9 +1,9 @@
 # Site settings
-title: Ethan Pickering
-email: pickering@mit.edu
-description: Academic webpage of Ethan Pickering
+title: Brinthan Kanesalingam
+email: kanesalingambrinthan187@gmail.com
+description: Academic webpage of Brinthan
 baseurl: ""
-url: ""
+url: "https://brinthank.github.io"
 affiliation: I am part of the <a href="http://meche.mit.edu/" target="_blank">Mechanical Engineering Department</a> at the Massachusetts Institute of Technology
 
 # Google analytics ID
