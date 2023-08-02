@@ -90,11 +90,11 @@ Dr. Ethan Pickering investigates chaotic systems of engineering interest that ex
 
 {% endif %}
 
-{% if site.data.acedemic_service %}
+{% if site.data.academic_service %}
 ## International Conference Reviewing
 
-{% for acedemic_service in site.data.acedemic_service %}
-* {{ acedemic_service.name }}
+{% for service in site.data.academic_service %}
+* {{ service.name }}
 {% endfor %}
 
 {% endif %}
