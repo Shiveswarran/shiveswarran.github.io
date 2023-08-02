@@ -1,7 +1,7 @@
 - title: A Study of Underground and Surface Mining Methods in Sri Lanka and its Suitability Assessment
   authors: Thanujan T., <b>Brinthan K.</b>, Shivadhahini S., Subasinghe MAIIJ., Vettinathan S., Dharmaratne PGR., Hemalal PVA., Chaminda SP., Jayawardena CL
   url: thanujan2021astudy
-  #image: pickering2022discovery.png
+  image: thanujan2021astudy.jpeg
   display: International Symposium on Earth Resources Management and Environment, Department of Earth Resources Engineering, University of Moratuwa.
   year: 2021
   doi: http://dl.lib.uom.lk/handle/123/17115
@@ -10,7 +10,7 @@
 - title: Evaluation of Machine Learning Algorithms in Classifying Multispectral Imagery on Waterbody Extraction
   authors: <b>Brinthan K.</b>, Thanujan T., Thiruchittampalam S., Jayawardena CL
   url: brinthan2021evaluation
-  #image: pickering2022fomo.png
+  image: brinthan2021evaluation.png
   display: 8th International Conference of Sabaragamuwa University of Sri Lanka.
   year: 2021
   #arxiv: 2208.13080
@@ -19,7 +19,7 @@
 - title: Evaluation of Ventilation Network through Hybrid Analytical-Numerical Approach in Underground Working Block
   authors: Thanujan T., <b>Brinthan K.</b>, Thiruchittampalam S., Jayawardena CL
   url: thanujan2021evaluation
-  #image: pickering2022structure.png
+  image: thanujan2021evaluation.png
   display: International Symposium on Earth Resources Management and Environment, Department of Earth Resources Engineering, University of Moratuwa.
   year: 2021
   #arxiv: 2203.04515
@@ -29,7 +29,7 @@
 - title: Experimental Investigation and Performance Optimisation of Washing Cycles for Pre-processing of Coal Fly Ash
   authors: <b>Brinthan K.</b>, Shivadhahini S., Senadheera UAG., Fernando WAM., Jayawardena CL., Jayasundara DRT., Wickrama MADMG
   url: brinthan2022experimental
-  #image: towne2022efficient.png
+  image: brinthan2022experimental.png
   display: International Symposium on Earth Resources Management and Environment, Department of Earth Resources Engineering, University of Moratuwa.
   year: 2022
   doi: 10.31705/ISERME.2022.11
@@ -42,12 +42,12 @@
   display: International Geoscience and Remote Sensing Symposium (IGARSS), Pasadena, California. <b>(In press)</b>
   year: 
   #doi: 10.1121/10.0006453
-  abstract: "Monitoring surface and near-shore water features is crucial for understanding dynamic environmental behaviours. Advances in satellite-based remote sensing have enabled the cost-effective and sustainable monitoring of water resources. Exploring the subclasses of water features using remote sensing requires further investigation. Spectral signatures have been proven to be effective in distinguishing water resource subclasses. Hence, this study aimed to establish the relationship between spectral signatures and the differentiation of water resource subclasses across wavelength ranges. To assess the effectiveness of the spectral signatures, a methodology combining the maximum difference and categorical matrices was used. This approach aims to compute an indicator matrix for quantitative evaluation. The indicator matrix quantifies the distinguishability between the classes across different wavelength ranges. These results facilitate the selection of optimal band combinations and wavelength ranges to delineate water subclasses efficiently. The findings of this study have practical implications for environmental and scientific applications, especially for classifying water resource subclasses."
-  
+  #abstract: "Monitoring surface and near-shore water features is crucial for understanding dynamic environmental behaviours. Advances in satellite-based remote sensing have enabled the cost-effective and sustainable monitoring of water resources. Exploring the subclasses of water features using remote sensing requires further investigation. Spectral signatures have been proven to be effective in distinguishing water resource subclasses. Hence, this study aimed to establish the relationship between spectral signatures and the differentiation of water resource subclasses across wavelength ranges. To assess the effectiveness of the spectral signatures, a methodology combining the maximum difference and categorical matrices was used. This approach aims to compute an indicator matrix for quantitative evaluation. The indicator matrix quantifies the distinguishability between the classes across different wavelength ranges. These results facilitate the selection of optimal band combinations and wavelength ranges to delineate water subclasses efficiently. The findings of this study have practical implications for environmental and scientific applications, especially for classifying water resource subclasses."
+
 - title: Harnessing the Capabilities of Microorganisms for the Valorisation of Coal Fly Ash Waste through Biometallurgy
   authors: <b>Brinthan K.</b>, Fernando WAM., Panda S., Jayawardena CL., Attygalle D., Amarasinghe DAS
   url: brinthan2023harnessing
-  #image: pickering2021thesis.png
+  image: brinthan2023harnessing.png
   display: Minerals, MDPI
   year: 2023
   doi: https://doi.org/10.3390/min13060724
