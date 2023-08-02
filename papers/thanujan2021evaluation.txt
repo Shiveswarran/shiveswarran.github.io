@@ -1,0 +1,1 @@
+@article{thanujan2021evaluation,  title={Evaluation of ventilation network through hybrid analytical-numerical approach in underground working block},  author={Thanujan, T and Brinthan, K and Thiruchittampalam, S and Jayawardena, CL},  year={2021},  publisher={Department of Earth Resources Engineering, University of Moratuwa}}
