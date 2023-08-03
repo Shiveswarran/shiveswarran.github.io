@@ -26,10 +26,8 @@ nav_pages:
   - name: about
   - name: publications
   - name: Presentations
-# - name: service
   - name: research
   - name: software
-# - name: team
   - name: teaching
 
 # Do you want to group your publications by year? {true/false}
