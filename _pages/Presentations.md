@@ -2,7 +2,7 @@
 title: "Presentations"
 layout: gridlay
 sitemap: false
-permalink: /talks/
+permalink: /Presentations/
 ---
 
 # Presentations

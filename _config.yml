@@ -12,7 +12,7 @@ google_analytics:
 # Location info. (shown in footer)
 location: >
   Coordinates: <br/>
-  Department of Earth Resources Engineering<br/>
+  Earth Resources Engineering<br/>
   University of Moratuwa<br/>
   Katubedda 10400<br/>
   Sri Lanka<br/>
@@ -26,7 +26,7 @@ nav_pages:
   - name: about
   - name: publications
   - name: Presentations
-  - name: service
+# - name: service
   - name: research
   - name: software
 # - name: team
