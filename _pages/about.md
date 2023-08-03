@@ -83,6 +83,19 @@ permalink: /about/
 
 <div class="row" style="text-align:justify">
 
+## Key Research Skills
+
+- Advanced computer vision techniques.
+- Machine learning data analysis, pattern recognition, and predictive modelling.
+- Physics informed machine learning.
+- Digital image processing for advanced microscopy analysis.
+- Material characterisation using advanced imaging and spectroscopy techniques for studying material properties and composition.
+- Computational X-ray micro-analysis methods for analysing and interpreting X-ray data to extract information.
+- Simulation design, performance analysis, and optimisation for developing efficient and accurate computational models and simulations.
+- Statistical learning methods for analysing complex data-sets and drawing meaningful conclusions.
+- Strong programming skills in Python and R for implementing algorithms, data manipulation, and statistical analysis for scientific computing.
+- Proficiency in LaTeX and markdown markup languages for creating professional and well-formatted research documents and reports.
+
 {% if site.data.awards %}
 ## Grants and Awards
 
