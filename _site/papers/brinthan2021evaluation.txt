@@ -1,0 +1,1 @@
+@article{brinthan2021evaluation,  title={Evaluation of Machine Learning Algorithms in Classifying Multispectral Imagery on Water body Extraction},  author={Brinthan, K and Thanujan, T and Thiruchittampalam, S and Jayawardena, CL},  year={2021},  publisher={Sabaragamuwa University of Sri Lanka}}

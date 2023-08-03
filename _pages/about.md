@@ -77,11 +77,17 @@ permalink: /about/
 
 {% endfor %}
 
+<div class="row" style="text-align:justify">
+
 ## Sketch
 
+## Publications
 
+For a comprehensive list of publications, kindly click <a href="https://brinthank.github.io/publications/">here</a>.
 
-<div class="row" style="text-align:justify">
+## Presentations
+
+For a comprehensive list of presentations, kindly click <a href="https://brinthank.github.io/Presentations/">here</a>.
 
 ## Key Research Skills
 
@@ -96,6 +102,15 @@ permalink: /about/
 - Strong programming skills in Python and R for implementing algorithms, data manipulation, and statistical analysis for scientific computing.
 - Proficiency in LaTeX and markdown markup languages for creating professional and well-formatted research documents and reports.
 
+{% if site.data.academic_service %}
+## International Conference Reviewing
+
+{% for service in site.data.academic_service %}
+* {{ service.name }}
+{% endfor %}
+
+{% endif %}
+
 {% if site.data.awards %}
 ## Grants and Awards
 
@@ -105,14 +120,7 @@ permalink: /about/
 
 {% endif %}
 
-{% if site.data.academic_service %}
-## International Conference Reviewing
 
-{% for service in site.data.academic_service %}
-* {{ service.name }}
-{% endfor %}
-
-{% endif %}
 
 </div>
 
