@@ -19,18 +19,18 @@ location: >
 
 # Contact info. (shown in footer)
 contact: >
-    Contact Brinthan via email: <a href="mailto:kanesalingambrinthan187@gmail.com" target="_blank">kanesalingambrinthan187@gmail.com</a> 
+    Contact via email: <a href="mailto:kanesalingambrinthan187@gmail.com" target="_blank">kanesalingambrinthan187@gmail.com</a> 
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
+  - name: Presentations
   - name: service
-# - name: research
-# - name: software
+ - name: research
+ - name: software
 # - name: team
-# - name: teaching
+ - name: teaching
 
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true
