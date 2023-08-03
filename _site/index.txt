@@ -153,13 +153,13 @@ I hold B.S. degrees in Mechanical Engineering and Engineering Mathematics from t
     <p>New Nature Computational Science paper on <a href='https://rdcu.be/c1TPe' target='_blank'>Discovering Extreme Events</a>! We develop a method for artificial intelligence to teach itself to accurately predict extreme events. From rogue waves to pandemic spikes, to structural ship failures, deep neural operators interact with complex systems to efficiently discover and learn extreme behavior.</p>
   
   15 March, 2021
-    <p>Submitted a new <a href='https://arxiv.org/abs/2103.09421' target='_blank'>paper</a> to JASA! We use reduced-order modeling for capturing physics of turbulet jet noise.</p>
+    <p>Our review paper about the <a href='https://www.mdpi.com/2075-163X/13/6/724'>coal fly ash and biometallurgy</a> got published in Minerals, MDPI </p>
   
-  4 February, 2020
-    <p>Defended my thesis, Resolvent modeling of turbulent jets, check out the <a href='https://caltech.box.com/s/izah1rs8xzjwc6l12s150c60znqhk8oy' target='_blank'>recording</a>!</p>
+  05 April, 2023
+    <p>Presented an oral presentation at the WorldCUR 2023</p>
   
-  22 May, 2020
-    <p>Just submitted a new <a href='https://arxiv.org/abs/2005.10964' target='_blank'>paper</a> to JFM! We use data to determine an optimal eddy-viscosity for resolvent analysis.</p>
+  09 December, 2022
+    <p>Presented a poster for the Research week organised by University of Moratuwa</p>
   
   
   <h4><a href="http://localhost:4000/allnews.html">... see all News</a></h4>
