@@ -87,7 +87,24 @@ For a comprehensive list of publications, kindly click <a href="https://brinthan
 
 ## Presentations
 
-For a comprehensive list of presentations, kindly click <a href="https://brinthank.github.io/Presentations/">here</a>.
+{% if site.data.conference_talks_oral %}
+#### Oral Presentations
+
+{% for publi in site.data.conference_talks_oral %}
+* <strong>{{ publi.title }}</strong> <br/> <i>{{ publi.authors }}</i>, {{ publi.conf }} ({{ publi.year }})
+{% endfor %}
+{% endif %}
+
+{% if site.data.conference_talks_poster %}
+#### Poster Presentations
+
+{% for publi in site.data.conference_talks_poster %}
+* <strong>{{ publi.title }}</strong> <br/> <i>{{ publi.authors }}</i>, {{ publi.conf }} ({{ publi.year }})
+{% endfor %}
+{% endif %}
+
+For additional details and materials related to presentations, kindly click <a href="https://brinthank.github.io/Presentations_detailed/">here</a>.
+
 
 ## Key Research Skills
 
