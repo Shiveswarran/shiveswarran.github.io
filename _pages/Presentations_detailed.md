@@ -2,7 +2,7 @@
 title: "Presentation_detailed"
 layout: gridlay
 sitemap: false
-permalink: /research/
+permalink: /Presentation_detailed/
 ---
 
 # Research
