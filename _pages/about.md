@@ -103,8 +103,7 @@ For a comprehensive list of publications, kindly click <a href="https://brinthan
 {% endfor %}
 {% endif %}
 
-For additional details and materials related to presentations, kindly click <a href="https://brinthank.github.io/Presentations_detailed/">here</a>.
-
+For additional details and materials related to presentations, kindly click <a href="https://brinthank.github.io/Presentations/">here</a>.
 
 ## Key Research Skills
 
