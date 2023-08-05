@@ -25,8 +25,8 @@ contact: >
 nav_pages:
   - name: about
   - name: publications
-  - name: Presentations
-
+  - name: teaching
+  
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true
 
