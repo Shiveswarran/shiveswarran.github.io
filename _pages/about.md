@@ -75,6 +75,7 @@ permalink: /about/
   </ul>
 </div>
 
+
 {% endfor %}
 
 <div class="row" style="text-align:justify">
