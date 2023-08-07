@@ -9,7 +9,7 @@ permalink: /teaching/
 <div class="rowl1">
 
   <h2>ER4202 - Research Project (Session 2021/22 [Intake 2019])</h2>
-  **Department of Earth Resources Engineering, Univeristy of Moratuwa, 2022**
+  **Department of Earth Resources Engineering, Univeristy of Moratuwa, 2023**
   <h3>In Your Own Words: A Journey through Literature
 </h3>
 
