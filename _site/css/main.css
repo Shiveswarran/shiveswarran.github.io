@@ -6383,7 +6383,7 @@ figcaption {
 
 /* Top navigation bar */
 p.byline {
-  text-align: center;
+  text-align: left;
   font-size: 18px;
   line-height: 36px;
   margin-top: -24px;

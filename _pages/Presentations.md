@@ -21,6 +21,17 @@ The University of Warwick hosted an extraordinary joint celebration of undergrad
 </div>
 
 ## Poster Presentations
+ 
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Presentations/researchweek2022.jpg" class="img-responsive" width="20%" style="float: left; border-radius:0px" />
+  <h4>Research Week 2022 at University of Moratuwa, Sri Lanka</h4>
+The University of Moratuwa hosted the Research Week 2022 for the second year in a row, from December 1st to 9th. The event, centered around the theme Connecting Academics, Practitioners, and Society: Towards Crisis-Resilient Research Frontiers, saw active participation from all faculties of the University of Moratuwa, including Graduate Studies, Architecture, Business, Engineering, Information Technology, and Medicine. Alongside the Office of Research, my teammate (Shivadhahini S) and I had the opportunity to present our undergraduate research project through a captivating poster presentation. The event attracted a diverse audience ranging from high school students to esteemed university professors.
+
+- You can access the high-quality poster presented at the event by downloading it from the following link: <a href="{{ site.url }}{{ site.baseurl }}/Files/researchweek2022uom.pdf" target="_blank">Poster - Research week 2022</a>
+
+  <ul style="overflow: hidden">
+  </ul>
+</div>
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Presentations/igrass2023.png" class="img-responsive" width="20%" style="float: left; border-radius:0px" />
@@ -32,6 +43,7 @@ The International Geoscience and Remote Sensing Symposium (IGARSS) is the flagsh
   <ul style="overflow: hidden">
   </ul>
 </div>
+
 
 <div class="rowl1">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Presentations/summerschool2023NS.jpg" class="img-responsive" width="20%" style="float: left; border-radius:0px" />
@@ -47,17 +59,3 @@ Newcastle University in Newcastle upon Tyne, United Kingdom, hosted the Internat
   <ul style="overflow: hidden">
   </ul>
 </div>
- 
-<div class="rowl1">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Presentations/researchweek2022.jpg" class="img-responsive" width="20%" style="float: left; border-radius:0px" />
-  <h4>Research Week 2022 at University of Moratuwa, Sri Lanka</h4>
-The University of Moratuwa hosted the Research Week 2022 for the second year in a row, from December 1st to 9th. The event, centered around the theme Connecting Academics, Practitioners, and Society: Towards Crisis-Resilient Research Frontiers, saw active participation from all faculties of the University of Moratuwa, including Graduate Studies, Architecture, Business, Engineering, Information Technology, and Medicine. Alongside the Office of Research, my teammate (Shivadhahini S) and I had the opportunity to present our undergraduate research project through a captivating poster presentation. The event attracted a diverse audience ranging from high school students to esteemed university professors.
-
-- You can access the high-quality poster presented at the event by downloading it from the following link: <a href="{{ site.url }}{{ site.baseurl }}/Files/researchweek2022uom.pdf" target="_blank">Poster - Research week 2022</a>
-
-  <ul style="overflow: hidden">
-  </ul>
-</div>
-
-
-

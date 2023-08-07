@@ -83,7 +83,7 @@
 
 <div class="well">
 <h4>Upcoming Events</h4>
-  {% for article in site.data.events limit:5 %}
+  {% for article in site.data.events limit:3 %}
   <b>{{ article.date }}</b>
     <p>{{ article.headline }}<br/>
     <i>{{ article.location }}</i></p>
