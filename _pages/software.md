@@ -10,7 +10,6 @@ permalink: /software/
 <div class="rowl1">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<img src="{{site.url}}{{site.baseurl}}/images/Software/pydeepp2sa.jpg" style="width:100px; min-width:10%; max-width:100%; margin-left:20px; margin-right:0px; margin-bottom:0px; margin-top:15px;" align="right"/>
 <h3>pyDeepP2SA (In development)
 
 <a href="https://github.com/BrinthanK/pyDeepP2SA" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
@@ -52,7 +51,6 @@ pyDeepP2SA provides several useful functions for particle size and shape analysi
 <div class="rowl1">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<img src="{{site.url}}{{site.baseurl}}/images/Software/pychemeng.jpg" style="width:100px; min-width:10%; max-width:100%; margin-left:20px; margin-right:0px; margin-bottom:0px; margin-top:15px;" align="right"/>
 <h3>pyChemEng
 <a href="https://github.com/Ashane-F/pyChemEng" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
 <a href="https://pypi.org/project/pyChemEng/" target="_blank"><button class="btn btn-danger btn-sm">PyPI</button></a> </h3>
