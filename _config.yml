@@ -19,7 +19,8 @@ location: >
 
 # Contact info. (shown in footer)
 contact: >
-    Contact via email: <a href="mailto:kanesalingambrinthan187@gmail.com" target="_blank">kanesalingambrinthan187@gmail.com</a> 
+    Contact via email: <a href="mailto:kanesalingambrinthan187@gmail.com" target="_blank">kanesalingambrinthan187@gmail.com</a><br/> 
+    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> This site was adapted from others and is open source</a>
 
 # Pages shown in navbar
 nav_pages:
