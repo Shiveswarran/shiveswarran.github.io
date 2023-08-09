@@ -82,9 +82,22 @@ permalink: /about/
 
 ## Sketch
 
+
+
+
+<div class="rowl1">
+
 ## Publications
 
+
 For a comprehensive list of publications, kindly click <a href="https://brinthank.github.io/publications/">here</a>.
+
+<br/>
+
+</div>
+
+
+<div class="rowl1">
 
 ## Presentations
 
@@ -106,6 +119,11 @@ For a comprehensive list of publications, kindly click <a href="https://brinthan
 
 For additional details and materials related to presentations, kindly click <a href="https://brinthank.github.io/Presentations/">here</a>.
 
+<br/>
+</div>
+
+<div class="rowl1">
+
 ## Key Research Skills
 
 - Advanced computer vision techniques.
@@ -119,6 +137,12 @@ For additional details and materials related to presentations, kindly click <a h
 - Strong programming skills in Python and R for implementing algorithms, data manipulation, and statistical analysis for scientific computing.
 - Proficiency in LaTeX and markdown markup languages for creating professional and well-formatted research documents and reports.
 
+<br/>
+</div>
+
+
+<div class="rowl1">
+
 {% if site.data.academic_service %}
 ## International Conference Reviewing
 
@@ -128,6 +152,11 @@ For additional details and materials related to presentations, kindly click <a h
 
 {% endif %}
 
+<br/>
+</div>
+
+<div class="rowl1">
+
 {% if site.data.awards %}
 ## Grants and Awards
 
@@ -136,6 +165,12 @@ For additional details and materials related to presentations, kindly click <a h
 {% endfor %}
 
 {% endif %}
+
+<br/>
+</div>
+
+
+
 
 
 
