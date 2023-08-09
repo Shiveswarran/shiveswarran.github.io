@@ -112,3 +112,59 @@ firstp {
     margin-right: 30px;
 }
 
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.428571429;
+  color: #ffffff;
+  background-color: #4D4D4D; }
+
+  h1, h2, h3, h4, h5, h6,
+  .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.1;
+    color: #E5E3C4; }
+    h1 small,
+    h1 .small, h2 small,
+    h2 .small, h3 small,
+    h3 .small, h4 small,
+    h4 .small, h5 small,
+    h5 .small, h6 small,
+    h6 .small,
+    .h1 small,
+    .h1 .small, .h2 small,
+    .h2 .small, .h3 small,
+    .h3 .small, .h4 small,
+    .h4 .small, .h5 small,
+    .h5 .small, .h6 small,
+    .h6 .small {
+      font-weight: normal;
+      line-height: 1;
+      color: #E5E3C4; }
+
+      a {
+        color: #61B886;
+        text-decoration: none; }
+        a:hover, a:focus {
+          color: #61B886;
+          text-decoration: underline; }
+        a:focus {
+          outline: 5px auto -webkit-focus-ring-color;
+          outline-offset: -2px; }
+
+.text-success {
+  color: #ffffff; }
+
+.text-info {
+  color: #ffffff; }
+
+
+.btn-sm,
+.btn-group-sm > .btn {
+  padding: 4px 10px;
+  font-size: 14px;
+  line-height: 1.5;
+  border-radius: 2px;
+  color: white; /* Add this line to set the font color to white */
+}
