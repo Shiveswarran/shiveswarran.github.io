@@ -29,7 +29,7 @@ Newcastle University in Newcastle upon Tyne, United Kingdom, hosted the Internat
 
 - You can access the high-quality poster presented at the event by downloading it from the following link: <a href="{{ site.url }}{{ site.baseurl }}/Files/summerschool2023newcastle.pdf" target="_blank">Poster - Newcastle University</a>
 
-- You can access the supplementary material provided at the event through the following link: <a href="{{ site.url }}{{ site.baseurl }}/Files/summerschoolsuppli2023newcastle.pdf" target="_blank">Supplementary material - Newcastle University</a>
+- You can access the supplementary material through the following link: <a href="{{ site.url }}{{ site.baseurl }}/Files/summerschoolsuppli2023newcastle.pdf" target="_blank">Supplementary material</a>
 
 
 

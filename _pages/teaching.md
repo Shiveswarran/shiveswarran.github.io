@@ -8,12 +8,20 @@ permalink: /teaching/
 
 <div class="rowl1">
 
-  <h2>ER4202 - Research Project (Session 2021/22 [Intake 2019])</h2>
+  <h2>ER4202 - Research Project (Session 2022/23 [Intake 2019])</h2>
   **Department of Earth Resources Engineering, Univeristy of Moratuwa, 2023**
   <h3>In Your Own Words: A Journey through Literature
 </h3>
 
-- Lecture slides will be available soon
+- Lecture slides : <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In19.pdf" target="_blank">Click here to download the lecture slides.</a> 
+- Resources
+  - <a href="https://mendeley-desktop.updatestar.com/en" target="_blank">Mendeley</a>
+  - <a href="https://www.zotero.org" target="_blank">Zotero</a>
+  - <a href="https://obsidian.md" target="_blank">Obsidian</a>
+  - Zotero and Obsidian integration 
+    - Video reference: <a href="https://www.youtube.com/watch?v=WNBLR-5zPmk" target="_blank">Streamlining Research with Obsidian & Zotero Integration</a> 
+    - Zotero-better-bibtex (Zotero plugin): <a href="https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.107" target="_blank">Click here to download the .xpi file</a>   
+    - Obsidian template for integration: <a href="https://raw.githubusercontent.com/muhammadammarzahid/zotero_obsidian/7ad6785e8aedd91b28444efc40061c6894a3266d/zotero_integration.md" target="_blank">Click here to download the .md template file</a>
   <ul style="overflow: hidden">
   </ul>
 </div>
