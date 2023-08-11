@@ -19,8 +19,8 @@
   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
   border: 0px solid transparent;
   white-space: nowrap;
-  color: $gray-lighter;
-  background-color: #03888a;
+  color: #ffffff;
+  background-color: #235ce2;
   @include button-size($padding-base-vertical*0.3, $padding-base-horizontal, $font-size-small, $line-height-base, $btn-border-radius-base);
   @include user-select(none);
 
@@ -46,8 +46,8 @@
   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
   border: 0px solid transparent;
   white-space: nowrap;
-  color: $gray-lighter;
-  background-color: $btn-warning-bg;
+  color: #ffffff;
+  background-color: #f73811;
   @include button-size($padding-base-vertical*0.3, $padding-base-horizontal, $font-size-small, $line-height-base, $btn-border-radius-base);
   @include user-select(none);
 
@@ -73,8 +73,8 @@
   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
   border: 0px solid transparent;
   white-space: nowrap;
-  color: $gray-lighter;
-  background-color: $btn-info-bg;
+  color: #ffffff;
+  background-color: #2ed49c;
   @include button-size($padding-base-vertical*0.3, $padding-base-horizontal, $font-size-small, $line-height-base, $btn-border-radius-base);
   @include user-select(none);
 
@@ -99,8 +99,8 @@
   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
   border: 0px solid transparent;
   white-space: nowrap;
-  color: $gray-lighter;
-  background-color: $btn-danger-bg;
+  color: #ffffff;
+  background-color: #f303b3;
   @include button-size($padding-base-vertical*0.3, $padding-base-horizontal, $font-size-small, $line-height-base, $btn-border-radius-base);
   @include user-select(none);
 
@@ -125,7 +125,7 @@
   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
   border: 0px solid transparent;
   white-space: nowrap;
-  color: $gray-lighter;
+  color: #ffffff;
   background-color: $btn-success-bg;
   @include button-size($padding-base-vertical*0.3, $padding-base-horizontal, $font-size-small, $line-height-base, $btn-border-radius-base);
   @include user-select(none);
@@ -147,6 +147,7 @@
   vertical-align: middle;
   touch-action: manipulation;
   cursor: pointer;
+  color: #ffffff;
   background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
   border: 1px solid transparent;
   white-space: nowrap;
