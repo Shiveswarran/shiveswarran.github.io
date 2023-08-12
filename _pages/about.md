@@ -85,7 +85,27 @@ permalink: /about/
 
 ## Short Biography 
 
-I am a postgraduate student at the University of Moratuwa, pursuing a Master's research project in the exploration and characterisation of coal fly ash, a waste material, with a focus on advancing material usage. My research encompasses mineral processing through separation technology, material synthesis and characterisation, machine learning, and digital image processing. At present, my primary research emphasis lies in <span style="color:#E5E3C4;">computational X-ray microanalysis</span> and its applications for materials at the nano- and micron-scale. I am actively involved in <span style="color:#E5E3C4;">simulations and computational decision-making processes</span> aimed at characterising nano and micron materials derived from coal fly ash. Through my work, I endeavour to contribute to the scientific understanding of coal fly ash as a valuable resource for sustainable material development. By utilising advanced analytical techniques and computational methods, I strive to unearth new insights and potential applications for this waste material, ultimately fostering a more environmentally conscious approach.
+I am currently pursuing a <span style="color:#E5E3C4;">research-focused Master's degree</span> at the University of Moratuwa in Sri Lanka. I hold a Bachelor's degree in Earth Resources Engineering from the same university, with a specialisation in mining and minerals engineering, focusing on petroleum engineering. My coursework encompassed mining engineering, mineral processing, remote sensing, mathematics, and petroleum engineering.
+
+My undergraduate thesis explored the potential of utilising coal fly ash for wastewater treatment, culminating in its presentation at the World Congress on Undergraduate Research (WorldCUR 2023) at the University of Warwick. Following this, I seamlessly transitioned to my Master's degree in September 2022, where my research continues to delve into coal fly ash.
+
+Collaborating with the Department of Earth Resources Engineering, the Department of Materials Science and Engineering at the University of Moratuwa, and the Department of Nano Science Technology at Wayamba University of Sri Lanka, my research primarily involves separation techniques for valuable components of coal fly ash. A review paper on this subject is currently under review. I have further concentrated my efforts on characterising cenospheres, the most valuable component of coal fly ash, utilising various imaging and spectroscopy techniques, leading to the creation of two technical papers pending internal review.
+
+Central to my research are <span style="color:#E5E3C4;">X-ray microanalysis, digital image processing, deep learning, and scientific computing</span>, all of which contribute collectively to my exploration of coal fly ash. By utilising advanced analytical techniques and computational methods, I strive to unearth new insights and potential applications for this waste material, ultimately fostering a more environmentally conscious approach.
+
+<br/>
+
+</div>
+
+<div class="rowl1">
+
+## Areas of Research Interests 
+
+- Mining, Minerals, and Materials 
+- Machine Learning and Digital Image Processing (Computer Vision)
+- Environmental Engineering and Waste Management 
+- Remote Sensing and Satellite Technologies
+- Material Characterisation and Advanced Materials
 
 <br/>
 
