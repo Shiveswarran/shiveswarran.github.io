@@ -9,7 +9,7 @@ permalink: /teaching/
 <div class="rowl1">
 
   <h2>ER4202 - Research Project (Session 2022/23 [Intake 2019])</h2>
-  **Department of Earth Resources Engineering, Univeristy of Moratuwa, 2023**
+  **Department of Earth Resources Engineering, University of Moratuwa, 2023**
   <h3>In Your Own Words: A Journey through Literature
 </h3>
 
@@ -29,7 +29,7 @@ permalink: /teaching/
 <div class="rowl1">
 
   <h2>ER4290 - Rock Mechanics (Session 2022/23 [Intake 2019])</h2>
-  **Department of Earth Resources Engineering, Univeristy of Moratuwa, 2023**
+  **Department of Earth Resources Engineering, University of Moratuwa, 2023**
   <h3>Machine Learning in Rock Mechanics</h3>
 
   <h4>Course Materials</h4>
@@ -47,7 +47,7 @@ permalink: /teaching/
 <div class="rowl1">
 
   <h2>ER4202 - Research Project (Session 2021/22 [Intake 2018])</h2>
-  **Department of Earth Resources Engineering, Univeristy of Moratuwa, 2022**
+  **Department of Earth Resources Engineering, University of Moratuwa, 2022**
   <h3>Let's Blast the Topic</h3>
 
 - Lecture slides : <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In18.pdf" target="_blank">Click here to download the lecture slides.</a> 
