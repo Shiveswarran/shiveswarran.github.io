@@ -174,25 +174,25 @@ For additional details and materials related to presentations, kindly click <a h
 {% if site.data.reviewer %}
 ## Academic Services
 
-### International Conference Reviewing
+#### International Conference Reviewing
 
 {% for service in site.data.reviewer %}
 * {{ service.name }}
 {% endfor %}
 
-### Editorial Team
+#### Editorial Team
 
 {% for service in site.data.editorial_team %}
 * {{ service.name }}
 {% endfor %}
 
-### Workshops
+#### Workshops
 
 {% for service in site.data.workshops %}
 * {{ service.name }}
 {% endfor %}
 
-### Organising Committee
+#### Organising Committee
 
 {% for service in site.data.organising_committee %}
 * {{ service.name }}
