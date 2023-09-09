@@ -13,6 +13,9 @@ permalink: /teaching/
   <h3>Machine Learning in Rock Mechanics</h3>
 
   <h4>Course Materials</h4>
+- Reference Books:
+    - An Introduction to Statistical Learning, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshiani, and Jonathan Taylor, Springer, 2003. <a href="https://www.statlearning.com" target="_blank"> You can access different versions of the book (Python and R) here.</a> 
+    - Machine Learning, Tom Mitchell, McGraw Hill, 1997. <a href="http://www.cs.cmu.edu/~tom/mlbook.html" target="_blank"> You can access the PDF version of the book along with other auxiliaries here.</a> 
 - Lecture 01 Session 01: Introduction to Machine Learning and its Importance in Rock Mechanics
     - Lecture slides: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/ER4290_D1S1.pdf" target="_blank">Click here to download the lecture slides.</a> 
 - Lecture 01 Session 02: Prediction of Mechanical Properties of Rock using Machine Learning (Interactive Coding Session)
