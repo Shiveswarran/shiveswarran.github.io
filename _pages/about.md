@@ -171,10 +171,20 @@ For additional details and materials related to presentations, kindly click <a h
 
 <div class="rowl1">
 
-{% if site.data.academic_service %}
+{% if site.data.reviewer %}
 ## Academic Services
 
+### International Conference Reviewing
+
 {% for service in site.data.reviewer %}
+* {{ service.name }}
+{% endfor %}
+
+{% endif %}
+
+### Editorial Team
+
+{% for service in site.data.editorial_team %}
 * {{ service.name }}
 {% endfor %}
 
