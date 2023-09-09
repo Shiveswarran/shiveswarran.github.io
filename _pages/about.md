@@ -172,9 +172,9 @@ For additional details and materials related to presentations, kindly click <a h
 <div class="rowl1">
 
 {% if site.data.academic_service %}
-## International Conference Reviewing
+## Academic Services
 
-{% for service in site.data.academic_service %}
+{% for service in site.data.reviewer %}
 * {{ service.name }}
 {% endfor %}
 
