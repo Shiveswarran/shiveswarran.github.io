@@ -186,6 +186,12 @@ For additional details and materials related to presentations, kindly click <a h
 * {{ service.name }}
 {% endfor %}
 
+### Workshops
+
+{% for service in site.data.workshops %}
+* {{ service.name }}
+{% endfor %}
+
 ### Organising Committee
 
 {% for service in site.data.organising_committee %}
