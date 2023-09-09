@@ -180,11 +180,15 @@ For additional details and materials related to presentations, kindly click <a h
 * {{ service.name }}
 {% endfor %}
 
-{% endif %}
-
 ### Editorial Team
 
 {% for service in site.data.editorial_team %}
+* {{ service.name }}
+{% endfor %}
+
+### Organising Committee
+
+{% for service in site.data.organising_committee %}
 * {{ service.name }}
 {% endfor %}
 
@@ -213,4 +217,6 @@ For additional details and materials related to presentations, kindly click <a h
 
 
 </div>
+
+
 
