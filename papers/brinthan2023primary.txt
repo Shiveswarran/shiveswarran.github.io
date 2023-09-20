@@ -1,0 +1,1 @@
+@article{brinthan2023primary,  title={A Primary Pre-Processing Strategy for Coal Fly Ash to Enhance Its Performance and Usability},  author={Brinthan, K and Shivadhahini, S and Senadheera, UAG and Fernando, WAM and Jayawardena, CL and Jayasundara, DRT and Wickrama, MADMG},  year={2023},  publisher={World Congress of Undergraduate Research, The University of Warwick}}
