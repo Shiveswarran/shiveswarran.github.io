@@ -9,3 +9,9 @@ gem "kramdown", ">= 2.3.0"
 gem "rack", ">= 2.2.3"
 gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.8"
+
+group :jekyll_plugins do
+    gem 'jekyll-sitemap'
+    gem 'jekyll-feed'
+    gem 'jekyll-seo-tag'
+  end

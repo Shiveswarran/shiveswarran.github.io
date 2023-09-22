@@ -7,7 +7,7 @@ url: "https://brinthank.github.io"
 #affiliation: I am postgraduate student at the University of Moratuwa, Sri Lanka.
 
 # Google analytics ID
-google_analytics: 
+google_analytics: UA-286355308-1
 
 # Location info. (shown in footer)
 location: >
@@ -58,3 +58,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
