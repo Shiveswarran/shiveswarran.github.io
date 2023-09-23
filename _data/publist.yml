@@ -86,7 +86,7 @@
   authors: <b>Brinthan K.</b>, Fernando WAM., Jayawardena CL., Attygalle D., Amarasinghe DAS., Rabbani A., Panda S
   #url: pickering2020resolvent
   #image: pickering2020resolvent.png
-  display: Journal of Analytical Atomic Spectrometry, The Royal Society of Chemistry <b>(Under internal review)</b>
+  display: Angewandte Chemie, German Chemical Society, Wiley-VCH <b>(Under internal review)</b>
   year: 
   #doi: doi:10.2514/6.2020-0999
   #abstract: "Linear resolvent analysis has demonstrated encouraging results for modeling coherent structures in jets when compared against their data-deduced counterparts from high-fidelity large-eddy simulations (LES). However, leveraging resolvent modes for reconstructing statistics of the far acoustic field remains elusive. In this study, we use a LES database to produce an ensemble of realizations for the acoustic field that we project on to a limited set of n resolvent modes. The projections are done on a restricted acoustic output domain, r/D = [5, 6], and allow for the LES realizations to be recast in the resolvent basis via a datadeduced, low-rank, n × n cross-spectral density matrix. We find substantial improvements to the acoustic field reconstructions with the addition of a RANS-derived eddy-viscosity model to the resolvent operator. The reconstructions quantitatively match the most energetic regions of the acoustic field across Strouhal numbers, St = [0 − 1], and azimuthal wavenumbers, m = [0, 2], using only three resolvent modes. Finally, the characteristics of the resulting n × n covariance matrices are examined and suggest off-diagonal terms may be neglected for n ≤ 3. Results are presented for round, isothermal, Mach 1.5 and 0.9 jets."
