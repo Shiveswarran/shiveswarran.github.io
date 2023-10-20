@@ -1,0 +1,19 @@
+current directory: /Users/shives/shiveswarran.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/shives/.rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/shives/shiveswarran.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20231013-7332-q2roev sitelibdir\=./.gem.20231013-7332-q2roev clean
+
+current directory: /Users/shives/shiveswarran.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20231013-7332-q2roev sitelibdir\=./.gem.20231013-7332-q2roev
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/shives/shiveswarran.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20231013-7332-q2roev sitelibdir\=./.gem.20231013-7332-q2roev install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20231013-7332-q2roev
+
+current directory: /Users/shives/shiveswarran.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20231013-7332-q2roev sitelibdir\=./.gem.20231013-7332-q2roev clean

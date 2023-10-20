@@ -1,33 +1,33 @@
 # Site settings
-title: Brinthan Kanesalingam
-email: kanesalingambrinthan187@gmail.com
-description: Academic webpage of Brinthan
+title: Shiveswarran Ratneswaran
+email: shiveswarran.22@cse.mrt.ac.lk
+description: Academic webpage of Shiveswarran
 baseurl: ""
-url: "https://brinthank.github.io"
-#affiliation: I am postgraduate student at the University of Moratuwa, Sri Lanka.
+url: "https://shiveswarran.github.io"
+affiliation: I am postgraduate student at the University of Moratuwa, Sri Lanka.
 
 # Google analytics ID
-google_analytics: UA-286355308-1
+#google_analytics: UA-286355308-1
 
 # Location info. (shown in footer)
 location: >
   Coordinates: <br/>
-  Dept. Earth Resources Engineering<br/>
+  Dept. Computer Science and Engineering<br/>
   University of Moratuwa<br/>
   Katubedda 10400<br/>
   Sri Lanka<br/>
 
 # Contact info. (shown in footer)
 contact: >
-    Contact via email: <a href="mailto:kanesalingambrinthan187@gmail.com" target="_blank">kanesalingambrinthan187@gmail.com</a><br/> 
+    Contact via email: <a href="mailto:shiveswarran.22@cse.mrt.ac.lk" target="_blank">shiveswarran.22@cse.mrt.ac.lk</a><br/> 
     <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
+  - name: research
   - name: publications
   - name: Presentations
-  - name: teaching
   - name: software
   
 # Do you want to group your publications by year? {true/false}
