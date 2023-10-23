@@ -10,7 +10,7 @@ permalink: /software/
 <div class="rowl1">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h3>pyDeepP2SA (In development)
+<h3>gps2gtfs (In development)
 
 <a href="https://github.com/BrinthanK/pyDeepP2SA" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
 <a href="https://pypi.org/project/pyDeepP2SA/" target="_blank"><button class="btn btn-danger btn-sm">PyPI</button></a> </h3>

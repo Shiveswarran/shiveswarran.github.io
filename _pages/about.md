@@ -101,11 +101,13 @@ Central to my research are <span style="color:#E5E3C4;">X-ray microanalysis, dig
 
 ## Areas of Research Interests 
 
-- Minerals, Materials, and Mining 
-- Machine Learning and Digital Image Processing (Computer Vision)
-- Environmental Engineering and Waste Management 
-- Remote Sensing and Satellite Technologies
-- Material Characterisation and Advanced Materials
+- Intelligent Transportation Systems
+- Advanced Machine Learning
+- Time Series Forecasting 
+- Spatial Data Science
+- Explainable AI
+- Connected & Autonomous vehicles
+- Sustainability
 
 <br/>
 
@@ -201,12 +203,11 @@ For additional details and materials related to presentations, kindly click <a h
 
 ## Key Research Skills
 
-- Advanced computer vision techniques.
-- Machine learning data analysis, pattern recognition, and predictive modelling.
-- Physics informed machine learning.
-- Digital image processing for advanced microscopy analysis.
-- Material characterisation using advanced imaging and spectroscopy techniques for studying material properties and composition.
-- Computational X-ray micro-analysis methods for analysing and interpreting X-ray data to extract information.
+- Advanced Machine Learning techniques.
+- Time series forecasting and predictive modelling.
+- Spatial - Temporal Data Science and analytics
+- Intelligent transportation systems 
+- Advanced feature engineering and Interpretation of black box machine learning models
 - Simulation design, performance analysis, and optimisation for developing efficient and accurate computational models and simulations.
 - Statistical learning methods for analysing complex data-sets and drawing meaningful conclusions.
 - Strong programming skills in Python and R for implementing algorithms, data manipulation, and statistical analysis for scientific computing.
@@ -239,9 +240,9 @@ For additional details and materials related to presentations, kindly click <a h
 * {{ service.name }}
 {% endfor %}
 
-#### Organising Committee
+#### Mentorship
 
-{% for service in site.data.organising_committee %}
+{% for service in site.data.mentorship %}
 * {{ service.name }}
 {% endfor %}
 
