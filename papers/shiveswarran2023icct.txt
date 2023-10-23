@@ -1,0 +1,9 @@
+@INPROCEEDINGS{10075789,
+  author={Ratneswaran, Shiveswarran and Thayasivam, Uthayasanker},
+  booktitle={2023 3rd International Conference on Intelligent Communication and Computational Techniques (ICCT)}, 
+  title={Extracting potential Travel time information from raw GPS data and Evaluating the Performance of Public transit - a case study in Kandy, Sri Lanka}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-7},
+  doi={10.1109/ICCT56969.2023.10075789}}

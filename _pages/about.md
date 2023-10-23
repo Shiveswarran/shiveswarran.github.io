@@ -85,7 +85,7 @@ permalink: /about/
 
 ## Short Biography 
 
-I am currently pursuing a <span style="color:#E5E3C4;">research-focused Master's degree</span> at the University of Moratuwa in Sri Lanka. I hold a Bachelor's degree in Earth Resources Engineering from the same university, with a specialisation in mining and minerals engineering, focusing on petroleum engineering. My coursework encompassed mining engineering, mineral processing, remote sensing, mathematics, and petroleum engineering.
+I am currently pursuing a <span style="color:#E5E3C4;">research-focused Master's degree</span> at Department of Computer Science & Engineering at the University of Moratuwa in Sri Lanka. I hold a Bachelor's degree in Earth Resources Engineering from the same university, with a specialisation in mining and minerals engineering, focusing on petroleum engineering. My coursework encompassed mining engineering, mineral processing, remote sensing, mathematics, and petroleum engineering.
 
 My undergraduate thesis explored the potential of utilising coal fly ash for wastewater treatment, culminating in its presentation at the World Congress on Undergraduate Research (WorldCUR 2023) at the University of Warwick. Following this, I seamlessly transitioned to my Master's degree in September 2022, where my research continues to delve into coal fly ash.
 
