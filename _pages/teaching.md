@@ -59,7 +59,7 @@ permalink: /teaching/
 
   <h2>Emerging trends in computer science: Data analytics</h2>
   **Department of Computer Science, University of Jaffna;, 2023**
-  <h3>Introduction to Data Analytics</h3>
+  <h3>Introduction to Data Analytics </h3>
 
 - Lecture slides: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In18.pdf" target="_blank">Click here to download the lecture slides.</a> 
   <ul style="overflow: hidden">
