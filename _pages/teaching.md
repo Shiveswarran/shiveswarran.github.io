@@ -8,9 +8,9 @@ permalink: /teaching/
 
 <div class="rowl1">
 
-  <h2>ER4290 - Rock Mechanics (Session 2022/23 [Intake 2019])</h2>
-  **Department of Earth Resources Engineering, University of Moratuwa, 2023**
-  <h3>Machine Learning in Rock Mechanics</h3>
+  <h2>CS4622 - Machine Learning (Session 2022/23 [Intake 2019])</h2>
+  **Department of Computer Science & Engineering, University of Moratuwa, 2023**
+  <h3>Time series forecasting with Hands-on</h3>
 
   <h4>Course Materials</h4>
 - Reference Books:
@@ -30,9 +30,9 @@ permalink: /teaching/
 
 <div class="rowl1">
 
-  <h2>ER4202 - Research Project (Session 2022/23 [Intake 2019])</h2>
-  **Department of Earth Resources Engineering, University of Moratuwa, 2023**
-  <h3>In Your Own Words: A Journey through Literature
+  <h2>SIT 380 Data Science Concepts (Session 2022/23)</h2>
+  **CICRA Campus BSc Cyber Security offered by Deakin University,Australia;, 2023**
+  <h3>Regression analysis
 </h3>
 
 - Lecture slides: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In19.pdf" target="_blank">Click here to download the lecture slides.</a> 
@@ -40,21 +40,31 @@ permalink: /teaching/
   - <a href="https://mendeley-desktop.updatestar.com/en" target="_blank">Mendeley</a>
   - <a href="https://www.zotero.org" target="_blank">Zotero</a>
   - <a href="https://obsidian.md" target="_blank">Obsidian</a>
-  - Zotero and Obsidian integration 
-    - Video reference: <a href="https://www.youtube.com/watch?v=WNBLR-5zPmk" target="_blank">Streamlining Research with Obsidian & Zotero Integration</a> 
-    - Zotero-better-bibtex (Zotero plugin): <a href="https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.107" target="_blank">Click here to download the .xpi file</a>   
-    - Obsidian template for integration: <a href="https://raw.githubusercontent.com/muhammadammarzahid/zotero_obsidian/7ad6785e8aedd91b28444efc40061c6894a3266d/zotero_integration.md" target="_blank">Click here to download the .md template file</a>
+  </ul>
+</div>
+
+# Tutorial / Hands-on Sessions
+<div class="rowl1">
+
+  <h2>SIT 380 Data Science Concepts (Session 2022/23)</h2>
+  **CICRA Campus BSc Cyber Security offered by Deakin University,Australia;, 2023**
+  <h3>Regression analysis</h3>
+
+- Hands-on Notebook: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In18.pdf" target="_blank">Click here to download the lecture slides.</a> 
   <ul style="overflow: hidden">
   </ul>
 </div>
 
 <div class="rowl1">
 
-  <h2>ER4202 - Research Project (Session 2021/22 [Intake 2018])</h2>
-  **Department of Earth Resources Engineering, University of Moratuwa, 2022**
-  <h3>Let's Blast the Topic</h3>
+  <h2>Emerging trends in computer science: Data analytics</h2>
+  **Department of Computer Science, University of Jaffna;, 2023**
+  <h3>Introduction to Data Analytics</h3>
 
 - Lecture slides: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In18.pdf" target="_blank">Click here to download the lecture slides.</a> 
+  <ul style="overflow: hidden">
+  </ul>
+- Hands-on Notebook: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In18.pdf" target="_blank">Click here to download the lecture slides.</a> 
   <ul style="overflow: hidden">
   </ul>
 </div>

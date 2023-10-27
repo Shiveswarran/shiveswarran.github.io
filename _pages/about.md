@@ -85,13 +85,9 @@ permalink: /about/
 
 ## Short Biography 
 
-I am currently pursuing a <span style="color:#E5E3C4;">research-focused Master's degree</span> at Department of Computer Science & Engineering at the University of Moratuwa in Sri Lanka. I hold a Bachelor's degree in Earth Resources Engineering from the same university, with a specialisation in mining and minerals engineering, focusing on petroleum engineering. My coursework encompassed mining engineering, mineral processing, remote sensing, mathematics, and petroleum engineering.
+I am a research assistant at the <a href="http://datasearch.uom.lk/2/index.php"> DataSEARCH research center</a>, Department of Computer Science and Engineering (CSE), University of Moratuwa. I have completed my Master's research degree at the Dept of CSE in the theme of intelligent transportation systems with a focus on improving public transportation service in Sri Lanka. My research encompasses predictive modelling of bus arrival times through advanced machine learning paradigms like <span style="color:#61B886;"> spatio-temporal forecasting, meta-learning, ensemble learning and explainable AI </span>. 
 
-My undergraduate thesis explored the potential of utilising coal fly ash for wastewater treatment, culminating in its presentation at the World Congress on Undergraduate Research (WorldCUR 2023) at the University of Warwick. Following this, I seamlessly transitioned to my Master's degree in September 2022, where my research continues to delve into coal fly ash.
-
-Collaborating with the Department of Earth Resources Engineering, the Department of Materials Science and Engineering at the University of Moratuwa, and the Department of Nano Science Technology at Wayamba University of Sri Lanka, my research primarily involves separation techniques for valuable components of coal fly ash. A review paper on this subject is currently under review. I have further concentrated my efforts on characterising cenospheres, the most valuable component of coal fly ash, utilising various imaging and spectroscopy techniques, leading to the creation of two technical papers pending internal review.
-
-Central to my research are <span style="color:#E5E3C4;">X-ray microanalysis, digital image processing, deep learning, and scientific computing</span>, all of which contribute collectively to my exploration of coal fly ash. By utilising advanced analytical techniques and computational methods, I strive to unearth new insights and potential applications for this waste material, ultimately fostering a more environmentally conscious approach.
+At present, my primary research emphasis lies on spatio-temporal data (e.g. GPS) processing and <span style="color:#E5E3C4;"> mathematical modelling of trajectories </span> of bus trips. I am actively involved in exploring various modelling methods and improving the prediction accuracy and hence, reliability. Through my work, I endeavour to contribute to the enhancement of public transportation systems in my country. By utilising advanced machine learning techniques and computational methods, I strive to unearth new insights and potential applications of advanced machine learning techniques in spatio-temporal data, ultimately fostering a more reliable public transits
 
 <br/>
 
@@ -228,11 +224,6 @@ For additional details and materials related to presentations, kindly click <a h
 * {{ service.name }}
 {% endfor %}
 
-#### Editorial Team
-
-{% for service in site.data.editorial_team %}
-* {{ service.name }}
-{% endfor %}
 
 #### Workshops
 
