@@ -19,8 +19,8 @@ permalink: /software/
 *Transforming Bus GPS data to GTFS format*
 </h4>
 <h5>
-<b>Authors:</b>
-<i>Uthayasanker T., Shiveswarran R.</i></h5>
+<b>Project Leader:</b>
+<i><a href="https://github.com/aaivu/gps2gtfs" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>, Shiveswarran R.</i></h5>
 <h5>
 <b>Contributors:</b>
 <i>Gopinath S., Kesavi A., Kajanan S.</i></h5>

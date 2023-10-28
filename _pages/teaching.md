@@ -4,53 +4,48 @@ layout: gridlay
 sitemap: false
 permalink: /teaching/
 ---
-# Teaching
+# Hands-on Sessions / Tutorials
 
 <div class="rowl1">
 
-  <h2>CS4622 - Machine Learning (Session 2022/23 [Intake 2019])</h2>
+  <h2>CS4622 - Machine Learning [Intake 2019 Semester 7]</h2>
   **Department of Computer Science & Engineering, University of Moratuwa, 2023**
   <h3>Time series forecasting with Hands-on</h3>
+- Time series Feature Extraction
+- Modeling Techniques and Evaluation
+- Time Series Forecasting Models - Fundamental approaches
+  - Naive Approach
+  - Moving Average
+  - Simple Exponential Smoothing
+  - Holt’s Linear Trend Model
 
-  <h4>Course Materials</h4>
-- Reference Books:
-    - An Introduction to Statistical Learning, Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshiani, and Jonathan Taylor, Springer, 2003. <a href="https://www.statlearning.com" target="_blank"> You can access different versions of the book (Python and R) here.</a> 
-    - Machine Learning, Tom Mitchell, McGraw Hill, 1997. <a href="http://www.cs.cmu.edu/~tom/mlbook.html" target="_blank"> You can access the PDF version of the book along with other auxiliaries here.</a> 
-- Lecture 01 Session 01: Introduction to Machine Learning and its Importance in Rock Mechanics
-    - Lecture slides: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/ER4290_D1S1.pdf" target="_blank">Click here to download the lecture slides.</a> 
-- Lecture 01 Session 02: Prediction of Mechanical Properties of Rock using Machine Learning (Interactive Coding Session)
-    - Datasets: <a href="{{ site.url }}{{ site.baseurl }}/teaching/rock_mechanics_B19/Day_01_Session_02.zip" target="_blank">Click here to download the compressed dataset files.</a> The datasets are extracted from the following studies:
-        - [Soft computing methods for estimating the uniaxial compressive strength of intact rock from index tests](https://www.sciencedirect.com/science/article/pii/S1365160915300708?via%3Dihub), *D.A. Mishra, M. Srigyan, A. Basu, P.J. Rokade, International Journal of Rock Mechanics and Mining Sciences, 2015 (IF-7.2).*
-        - [Estimation of uniaxial compressive strength of rock materials by index tests using regression analysis and fuzzy inference system](https://www.sciencedirect.com/science/article/pii/S1365160915300708?via%3Dihub), *D.A. Mishra, A. Basu, Engineering Geology,2013 (IF-7.4).*
-    - Jupyter notebook: <a href="{{ site.url }}{{ site.baseurl }}/teaching/rock_mechanics_B19/Day_01_Session_02_UCS_Prediction.ipynb" target="_blank">Click here to download the jupyter notebook</a>
-- Lecture 02 Session 01:
+- Advanced sequential models for timeseries forecasting
+  - Long Short-Term Memory network (LSTM network)
+
+<h4>Course Materials</h4>
+
+- Hands-on Python Notebook for time-series forecasting from basics. <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/ER4290_D1S1.pdf" target="_blank">Click here to download the notebook.</a> 
+- Data set:  <a href="{{ site.url }}{{ site.baseurl }}/teaching/Dataset.zip" target="_blank">traffic data of JetRail .</a>
+
+<h4> Additional resources </h4>
+- <a href="https://www.tensorflow.org/tutorials/structured_data/time_series#setup" target="_blank">TensorFlow Tutorial on Time Series</a>
   <ul style="overflow: hidden">
   </ul>
 </div>
 
+# Teaching /Guest Lecture 
+
 <div class="rowl1">
 
-  <h2>SIT 380 Data Science Concepts (Session 2022/23)</h2>
-  **CICRA Campus BSc Cyber Security offered by Deakin University,Australia;, 2023**
-  <h3>Regression analysis
-</h3>
-
-- Lecture slides: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In19.pdf" target="_blank">Click here to download the lecture slides.</a> 
-- Resources
-  - <a href="https://mendeley-desktop.updatestar.com/en" target="_blank">Mendeley</a>
-  - <a href="https://www.zotero.org" target="_blank">Zotero</a>
-  - <a href="https://obsidian.md" target="_blank">Obsidian</a>
-  </ul>
-</div>
-
-# Tutorial / Hands-on Sessions
-<div class="rowl1">
-
-  <h2>SIT 380 Data Science Concepts (Session 2022/23)</h2>
-  **CICRA Campus BSc Cyber Security offered by Deakin University,Australia;, 2023**
-  <h3>Regression analysis</h3>
-
-- Hands-on Notebook: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In18.pdf" target="_blank">Click here to download the lecture slides.</a> 
+  <h2>Introduction to Artificial Intelligence to Bankers - Training Program </h2>
+  **Central Bank of Sri Lanka;, 2023**
+  <h3>Data Analytics and Paradigms & Python for Data Analytics</h3>
+- Content:
+  - Descriptive Analytics
+  - Diagnostic Analytics
+  - Predictive analytics
+  - Prescriptive analytics
+- Hands-on Notebook: <a href="{{ site.url }}{{ site.baseurl }}/teaching/lectures/Data_Analytics_and_Data_Wrangling.ipynb" target="_blank">Click here to download the python notebook</a> 
   <ul style="overflow: hidden">
   </ul>
 </div>
@@ -61,10 +56,26 @@ permalink: /teaching/
   **Department of Computer Science, University of Jaffna;, 2023**
   <h3>Introduction to Data Analytics </h3>
 
-- Lecture slides: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In18.pdf" target="_blank">Click here to download the lecture slides.</a> 
+- Lecture slides: <a href="{{ site.url }}{{ site.baseurl }}/teaching/lectures/Intro_to_data_analytics.pdf" target="_blank">Click here to download the lecture slides.</a> 
   <ul style="overflow: hidden">
   </ul>
-- Hands-on Notebook: <a href="{{ site.url }}{{ site.baseurl }}/teaching/research_talks/Research_talk_In18.pdf" target="_blank">Click here to download the lecture slides.</a> 
+- Hands-on Notebook: <a href="{{ site.url }}{{ site.baseurl }}/teaching/lectures/Data_Analytics_and_Data_Wrangling.ipynb" target="_blank">Click here to download the python notebook.</a> 
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+
+# Teaching Assistant / Instructor
+
+<div class="rowl1">
+
+  <h2>Undergraduate Modules related to machine learning</h2>
+  **Department of Computer Science & Engineering, University of Moratuwa;, 2022-2023**
+
+- Assist in developing projects, assignments, quizzes, lab tutorials and Marking them
+  - CS 4622 : Machine Learning (Semester 7 , 2022 & 2023)
+  - CS 4642 : Data Mining & Information Retrieval (Semester 7 , 2022 & 2023)
+  - CS 4650 : Big Data Analytics (Semester 7, 2023)
+  - CS 3111 : Introduction to Machine Learning (Semester 4 , 2023)
   <ul style="overflow: hidden">
   </ul>
 </div>
