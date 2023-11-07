@@ -159,29 +159,7 @@ body {
 .text-info {
   color: #ffffff; }
 
-  <!DOCTYPE html>
-  <html>
-  <head>
-    <link id="theme-style" rel="stylesheet" href="light-theme.css">
-  </head>
-  <body>
-    <button id="theme-toggle">Switch Theme</button>
-  
-    <script>
-      const themeToggle = document.getElementById('theme-toggle');
-      const themeStyle = document.getElementById('theme-style');
-  
-      themeToggle.addEventListener('click', () => {
-        if (themeStyle.getAttribute('href') === 'light-theme.css') {
-          themeStyle.setAttribute('href', 'dark-theme.css');
-        } else {
-          themeStyle.setAttribute('href', 'light-theme.css');
-        }
-      });
-    </script>
-  </body>
-  </html>
-  
+
 .btn-sm,
 .btn-group-sm > .btn {
   padding: 4px 10px;
